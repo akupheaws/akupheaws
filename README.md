@@ -192,16 +192,22 @@ Code Review        ██████░░░░░░░░░░░░░░ 
 </tr>
 </table>
 
-## 💡 Featured Projects
+## 📌 Featured Projects
 
-<div align="center">
+| Project | What it delivers | Tech | Links |
+|---|---|---|---|
+| **Auto-Scaling Web App with CI/CD** | HA EC2 web app with one-click deployments and infra automation. | AWS (VPC, EC2, ALB/ASG), Terraform, Ansible, CodePipeline/Build/Deploy | [Guide] |
+| **Secure IAM Key Rotation, Storage & Deletion** | Fully automated 30-day key rotation, Secrets Manager updates, audit trail, and notifications. | Lambda, EventBridge, IAM, Secrets Manager, DynamoDB, SNS | [Guide] · [Repo] |
+| **Serverless CSV Data Pipeline** | End-to-end ingestion → transform → visualize pipeline with interactive dashboards. | S3, Lambda, Glue, (Athena optional), QuickSight | [Guide] |
+| **Two-Tier Web App on AWS (EC2 + RDS + ALB)** | Production-ready To-Do app with DNS, TLS, WAF, and scalable app/database tiers. | EC2, RDS, ALB, Route 53, ACM, CloudFront, Terraform | [Guide] · [Repo] |
 
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=akupheaws&repo=akuphecloud-portfolio&theme=tokyonight)](https://github.com/akupheaws/akuphecloud-portfolio)
-[![Infrastructure as Code](https://github-readme-stats.vercel.app/api/pin/?username=akupheaws&repo=terraform-aws-modules&theme=tokyonight)](https://github.com/akupheaws/terraform-aws-modules)
-[![CI/CD Templates](https://github-readme-stats.vercel.app/api/pin/?username=akupheaws&repo=cicd-templates&theme=tokyonight)](https://github.com/akupheaws/cicd-templates)
-[![Kubernetes Manifests](https://github-readme-stats.vercel.app/api/pin/?username=akupheaws&repo=k8s-production-ready&theme=tokyonight)](https://github.com/akupheaws/k8s-production-ready)
+<!-- Link refs -->
+[Guide]: https://medium.com/%40akupheaws/auto-scaling-web-application-with-ci-cd-pipeline-on-aws-dd8a9fbb6f21
+[Repo]: https://github.com/akupheaws/Secure-IAM-Key-Rotation-Storage-and-Deletion-Pipeline
+[Guide]: https://medium.com/%40akupheaws/data-pipeline-for-processing-csv-files-using-s3-lambda-glue-and-quicksight-35b77d5e7d26
+[Guide]: https://medium.com/%40akupheaws/two-tier-web-app-deployment-on-aws-using-ec2-route-53-rds-and-alb-2bcb0498d844
+[Repo]: https://github.com/akupheaws/2-tier-to-do-list-web-application
 
-</div>
 
 ## 📝 Latest Blog Posts
 
