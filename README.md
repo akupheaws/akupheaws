@@ -1,8 +1,9 @@
 # Hi there, I'm Akuphe Dieudonne 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Cloud+Architect;AWS+Certified+Professional;Infrastructure+as+Code+Expert;CI%2FCD+Pipeline+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Cloud+Architect;AWS+Certified+Professional;Infrastructure+as+Code+Expert;CI%2FCD+Pipeline+Specialist;DevSecOps+Engineer;SRE;Azure+DevOps" alt="Typing SVG" />
 </div>
+
 
 <div align="center">
   <a href="https://akuphecloud.com">
@@ -28,7 +29,10 @@
 
 <img align="right" alt="DevOps Animation" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
 
-🔧 **DevOps Engineer** with expertise in cloud infrastructure, automation, and continuous delivery
+🔧 **DevOps Engineer** with expertise in cloud infrastructure, automation, and continuous delivery  
+🛡️ **DevSecOps Engineer** driving shift-left security, policy-as-code, and secure SDLC  
+🧰 **Azure DevOps** (Pipelines, Repos, Boards, Artifacts) for CI/CD and release management  
+🧭 **Site Reliability Engineering (SRE)** with SLO/SLI design, error budgets, and incident management
 
 🌩️ **AWS Certified** professional specializing in scalable cloud architectures
 
@@ -39,6 +43,7 @@
 🔐 **Security-First** approach with DevSecOps practices and compliance automation
 
 <br clear="right"/>
+
 
 ## 💼 Core Competencies
 
